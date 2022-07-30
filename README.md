@@ -1,6 +1,6 @@
 # genshin_artifact_screening
 
-基于<https://github.com/YuehaiTeam/genshin_artifact>的圣遗物狗粮筛选
+基于<https://github.com/wormtql/genshin_artifact>的圣遗物狗粮筛选
 
 在needs.json文件里面输入想要保存的
 
