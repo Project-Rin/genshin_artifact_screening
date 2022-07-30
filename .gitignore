@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+artifacts_mona.json
+artifacts_mona_raw.json
+.DS_Store

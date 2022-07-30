@@ -1,0 +1,80 @@
+{
+    "flower": {
+        "setName": "绝缘套",
+        "mainTag": [
+            "小生命"
+        ],
+        "normalTags": [
+            "元素精通",
+            "大防御"
+        ],
+        "omit": false,
+        "level": 20,
+        "star": 5,
+        "id": 7605843943580557,
+        "contentHash": "c94871fc241bb8230009cd5a58ee8a9f5a13e985",
+        "num": 2
+    },
+    "sand": {
+        "setName": "绝缘套",
+        "mainTag": [
+            "充能"
+        ],
+        "normalTags": [
+            "暴击率"
+        ],
+        "omit": false,
+        "level": 20,
+        "star": 5,
+        "id": 7605843943580557,
+        "contentHash": "c94871fc241bb8230009cd5a58ee8a9f5a13e985",
+        "num": 2
+    },
+    "feather": {
+        "setName": "绝缘套",
+        "mainTag": [
+            "小攻击"
+        ],
+        "normalTags": [
+            "元素精通",
+            "大防御"
+        ],
+        "omit": false,
+        "level": 20,
+        "star": 5,
+        "id": 7605843943580557,
+        "contentHash": "c94871fc241bb8230009cd5a58ee8a9f5a13e985",
+        "num": 2
+    },
+    "cup": {
+        "setName": "绝缘套",
+        "mainTag": [
+            "大攻击"
+        ],
+        "normalTags": [
+            "元素精通"
+        ],
+        "omit": false,
+        "level": 20,
+        "star": 5,
+        "id": 7605843943580557,
+        "contentHash": "c94871fc241bb8230009cd5a58ee8a9f5a13e985",
+        "num": 2
+    },
+    "head": {
+        "setName": "绝缘套",
+        "mainTag": [
+            "暴击率"
+        ],
+        "normalTags": [
+            "元素精通",
+            "大防御"
+        ],
+        "omit": false,
+        "level": 20,
+        "star": 5,
+        "id": 7605843943580557,
+        "contentHash": "c94871fc241bb8230009cd5a58ee8a9f5a13e985",
+        "num": 2
+    }
+}
